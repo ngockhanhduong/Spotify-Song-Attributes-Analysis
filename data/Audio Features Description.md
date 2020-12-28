@@ -7,4 +7,4 @@ The data set contains 100K+ of audio tracks with 19 features, detailed as follow
 |    `key`     |   `int`    | The estimated overall key of the track. Integers map to pitches using standard Pitch Class notation. E.g. 0 = C, 1 = C♯/D♭, 2 = D, and so on. If no key was detected, the value is -1.|
 |    [...]     |   [...]    |        [...]        |
 
-The feature descriptions were collected from [Spotify Audio Features](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
+The feature descriptions were collected from [Spotify Audio Features](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/).
